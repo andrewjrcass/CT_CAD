@@ -1,3 +1,6 @@
 --------------- Project Disrciption File ------------------
-14/03/2022 23:12:52
+13/07/2022 13:39
+ 
+ Uses Code Typhon from Pilotlogic (Lazarus free pascal based fork)
+ CAD application that uses Vecad library API
  
