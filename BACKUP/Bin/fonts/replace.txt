@@ -1,0 +1,147 @@
+Golim.vcf 0
+arial.vcf
+*
+ARIALI.TTF 0
+arial.vcf
+*
+ARIALBD.TTF 0
+arial.vcf
+*
+bigfont 1
+arial.vcf
+*
+amgdt.shx 0
+arial.vcf
+*
+*empty* 0
+amgdt.vcf
+*
+pta.shx 0
+arial.vcf
+*
+HBRDS 1
+romans.vcf
+*
+cadsg 1
+romans.vcf
+*
+shs 1
+romans.vcf
+*
+cityb___.ttf 0
+arial.vcf
+*
+TIMESBD.TTF 0
+times.vcf
+*
+ITALICC8.shx 0
+italicc.vcf
+*
+TAHOMA.TTF 0
+Verdana.vcf
+*
+monotxt_ans.shx 0
+monotxt.vcf
+*
+swissk.ttf 0
+amgdt.vcf
+*
+swissel.ttf 0
+complex.vcf
+*
+sanss___.ttf 0
+complex.vcf
+*
+ROMANS8.SHX 0
+complex.vcf
+*
+ENGINEERING.shx 0
+complex.vcf
+*
+H2GTRE.TTF 0
+complex.vcf
+*
+KHCLINE.shx 0
+complex.vcf
+*
+NGULIM.TTF 0
+complex.vcf
+*
+H2GTRM.TTF 0
+complex.vcf
+*
+Alibre Symbols.vcf 0
+arial.vcf
+*
+stencil.shx 0
+simplex.vcf
+*
+BOLD 0
+simplex.vcf
+*
+ARIALN.TTF 0
+arial.vcf
+*
+dim.shx 0
+simplex.vcf
+*
+RIGIDshp.shx 0
+simplex.vcf
+*
+stencil 0
+simplex.vcf
+*
+outline 0
+simplex.vcf
+*
+C:\ACAD\ARCHSTYL.SHX 0
+simplex.vcf
+*
+AGS 0
+simplex.vcf
+*
+helvb.shx 0
+simplex.vcf
+*
+MSURVEY 0
+simplex.vcf
+*
+isocpeur.ttf 0
+simplex.vcf
+*
+swissl.ttf 0
+simplex.vcf
+*
+Arial Narrow 0
+arial.vcf
+*
+Swis721 LtEx BT 0
+simplex.vcf
+*
+WORKING.shx 0
+arial.vcf
+*
+CG Times (W1) 0
+amgdt.vcf
+*
+BIGFONT.SHX 1
+arial.vcf
+*
+ARIALBI.TTF 0
+amgdt.vcf
+*
+sasb____.pfb 0
+amgdt.vcf
+*
+swissek.ttf 0
+amgdt.vcf
+*
+SYMBOL 0
+amgdt.vcf
+*
+hsw.shx 1
+romans.vcf
+*
+hbrds.shx 1
+romand.vcf
+*

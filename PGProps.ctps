@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="PGProps.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="2" Y="26"/>
+        <UsageCount Value="204"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ugprops.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="271"/>
+        <CursorPos Y="313"/>
+        <UsageCount Value="204"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="CadApi.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3142"/>
+        <CursorPos X="18" Y="3154"/>
+        <UsageCount Value="204"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umodule.pas"/>
+        <FRMtype Value="300"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="754"/>
+        <CursorPos X="6" Y="1609"/>
+        <UsageCount Value="204"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uvecadtools.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uVecadtools"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="307"/>
+        <CursorPos X="45" Y="196"/>
+        <UsageCount Value="224"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upanelman.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPanels"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="139"/>
+        <CursorPos X="28" Y="141"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\interfaces\win32\win32listsl.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="151"/>
+        <CursorPos Y="170"/>
+        <UsageCount Value="25"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\packages_pl\pl_ExSpecial\source\TplMathParserUnit.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1836"/>
+        <CursorPos X="20" Y="205"/>
+        <UsageCount Value="94"/>
+        <Bookmarks Count="1">
+          <Item0 Y="2120"/>
+        </Bookmarks>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="241" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="243" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="244" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="247" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="235" TopLine="219"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="236" TopLine="219"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="237" TopLine="219"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="239" TopLine="219"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="241" TopLine="219"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="243" TopLine="219"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="244" TopLine="219"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="247" TopLine="219"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="248" TopLine="219"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="249" TopLine="219"/>
+      </Position>
+      <Position>
+        <Filename Value="umodule.pas"/>
+        <Caret Line="625" Column="4" TopLine="586"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="381" Column="3" TopLine="370"/>
+      </Position>
+      <Position>
+        <Filename Value="upanelman.pas"/>
+        <Caret Line="139" Column="39" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="upanelman.pas"/>
+        <Caret Line="141" Column="28" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="umodule.pas"/>
+        <Caret Line="1602" Column="2" TopLine="1598"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="381" Column="29" TopLine="370"/>
+      </Position>
+      <Position>
+        <Filename Value="umodule.pas"/>
+        <Caret Line="1675" Column="2" TopLine="1671"/>
+      </Position>
+      <Position>
+        <Filename Value="uvecadtools.pas"/>
+        <Caret Line="195" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="271" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="272" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="274" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="275" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="276" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="271" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="ugprops.pas"/>
+        <Caret Line="313" TopLine="294"/>
+      </Position>
+      <Position>
+        <Filename Value="uvecadtools.pas"/>
+        <Caret Line="69" Column="37" TopLine="45"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="4">
+        <Item1 Value="C:\WINDOWS\system32\cmd.exe /C ${TargetCmdLine}"/>
+        <Item2 Value="${CmdExe} ${TargetCmdLine}"/>
+        <Item3 Value="&quot;$(Pas2JSBrowser)&quot; &quot;$(Pas2JSProjectURL)&quot;"/>
+        <Item4 Value="$(Pas2JSBrowser) &quot;$(Pas2JSProjectURL)&quot;"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\rotlabel\PDJRotoLabel.pas"/>
+        <Line Value="231"/>
+      </Item>
+    </BreakPoints>
+    <Watches>
+      <Item>
+        <Expression Value="COLOR"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>

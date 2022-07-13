@@ -1,0 +1,27 @@
+program pdbasenav;
+
+{$mode objfpc}{$H+}
+
+uses
+  {$IFDEF UNIX}
+  cthreads,
+  {$ENDIF}
+  {$IFDEF HASAMIGA}
+  athreads,
+  {$ENDIF}
+  Interfaces, // this includes the CT adLCL widgetset
+  Forms, udbasenav, udbModule, uCat;
+
+{$R *.res}
+
+begin
+  RequireDerivedFormResource:=True;
+  Application.Title:='DatabaseNavigator';
+  Application.Scaled:=True;
+  Application.Initialize;
+  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(Tdm, dm);
+  Application.CreateForm(TfrmCat, frmCat);
+  Application.Run;
+end.
+
